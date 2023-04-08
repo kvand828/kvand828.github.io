@@ -37,8 +37,7 @@ h3 {
          <p>I am a Junior at Bob Jones University studying Sport Management with a minor in 
             coaching. I work for Easley High School as the Junior Varsity Softball Coach.</p>
          <p>
-            I attend Suber Road Baptist Church in Greer SC. I have a mobile-friendly 
-            sheet music <a href="<html>
+            I attend Suber Road Baptist Church in Greer SC.
 <head>
 <style>
 body {
